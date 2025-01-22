@@ -1,4 +1,4 @@
-# PasteQ: A clipboard tool faster than Raycast's.
+# [PasteQ](https://apps.apple.com/app/pasteq/id6443971843): A clipboard tool faster than Raycast's.
 
 [中文](README_CN.md)｜English
 
@@ -22,7 +22,7 @@ The built-in clipboard tool in Raycast is also useful, but it has some inconveni
 
 ## Download
 
-Mac App Store: [PasteQ](https://apps.apple.com/cn/app/pasteq/id6443971843)
+Mac App Store: [PasteQ](https://apps.apple.com/app/pasteq/id6443971843)
 
 > YouTube video introduction: [https://youtu.be/zH7U3FAwX9c](https://youtu.be/zH7U3FAwX9c)
 >
