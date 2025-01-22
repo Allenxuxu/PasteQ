@@ -1,4 +1,4 @@
-# PasteQ: 比 Raycast 剪切板更快捷的剪切板工具
+# [PasteQ](https://apps.apple.com/app/pasteq/id6443971843): 比 Raycast 剪切板更快捷的剪切板工具
 
 中文｜[English](README.md)
 
