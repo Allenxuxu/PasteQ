@@ -35,4 +35,4 @@ Mac App Store： [PasteQ](https://apps.apple.com/cn/app/pasteq/id6443971843)
 > B 站视频介绍： [https://www.bilibili.com/video/BV1RD4y1Y7mk](https://www.bilibili.com/video/BV1RD4y1Y7mk)
 
 ![image](./img/setting1_cn.png)
-![image](./img/setting1_cn.png)
+![image](./img/setting2_cn.png)
