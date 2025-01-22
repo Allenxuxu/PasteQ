@@ -1,5 +1,7 @@
 # PasteQ: 比 Raycast 剪切板更快捷的剪切板工具
 
+中文｜[English](README.md)
+
 Raycast 极为实用，我日常都在使用它来搜索并打开应用程序，以及开启项目代码。
 
 Raycast 自带的剪切板工具同样好用，然而存在一些不太便捷之处：
