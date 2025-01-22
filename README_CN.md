@@ -12,6 +12,9 @@ Raycast 自带的剪切板工具同样好用，然而存在一些不太便捷之
 
 ## PasteQ 的核心功能
 
+![image_cn](./img/image_cn.png)
+
+
 * 悬浮窗口，能够直接悬浮在任意应用之上。
 * 可通过快捷键呼出，且自动隐藏。
 * 支持完全使用快捷键进行操作，包括筛选记录分类、搜索、复制、粘贴。
@@ -30,3 +33,6 @@ Mac App Store： [PasteQ](https://apps.apple.com/cn/app/pasteq/id6443971843)
 > YouTobe 视频介绍： [https://youtu.be/zH7U3FAwX9c](https://youtu.be/zH7U3FAwX9c)
 >
 > B 站视频介绍： [https://www.bilibili.com/video/BV1RD4y1Y7mk](https://www.bilibili.com/video/BV1RD4y1Y7mk)
+
+![image](./img/setting1_cn.png)
+![image](./img/setting1_cn.png)

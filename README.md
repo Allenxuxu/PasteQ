@@ -12,6 +12,8 @@ The built-in clipboard tool in Raycast is also useful, but it has some inconveni
 
 ## Core Features of PasteQ
 
+![image](./img/image.png)
+
 * Floating window that can hover over any application.
 * Can be invoked via shortcut keys and automatically hidden.
 * Supports full operation using shortcut keys, including filtering record categories, searching, copying, and pasting.
@@ -30,3 +32,6 @@ Mac App Store: [PasteQ](https://apps.apple.com/app/pasteq/id6443971843)
 > YouTube video introduction: [https://youtu.be/zH7U3FAwX9c](https://youtu.be/zH7U3FAwX9c)
 >
 > Bilibili video introduction: [https://www.bilibili.com/video/BV1RD4y1Y7mk](https://www.bilibili.com/video/BV1RD4y1Y7mk)
+
+![image](./img/setting1.png)
+![image](./img/setting2.png)
