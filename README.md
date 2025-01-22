@@ -1,5 +1,7 @@
 # PasteQ: A clipboard tool faster than Raycast's.
 
+[中文](README_CN.md)｜English
+
 Raycast is extremely practical, and I use it daily to search and open applications, as well as to start project code.
 
 The built-in clipboard tool in Raycast is also useful, but it has some inconveniences:
